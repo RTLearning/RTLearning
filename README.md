@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RTLearning
-- 👀 I’m interested in learning all about Ptthon
+- 👀 I’m interested in learning all about Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on what I wish to learn
 - 📫 How to reach me - here
